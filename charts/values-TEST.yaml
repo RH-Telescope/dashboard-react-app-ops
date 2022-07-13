@@ -1,3 +1,0 @@
-replicaCount: 1
-image:
-  tag: ploigos2.jfrog.io/ploigos/spring-petclinic@sha256:bcf20483485ac12b0ea5e34e2ed16c1d9952b194234ca9dc1d3291a403f60a6f
